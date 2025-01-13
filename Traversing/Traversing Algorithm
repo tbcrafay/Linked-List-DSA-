@@ -1,0 +1,7 @@
+TraverseLinkedList (START)
+1. Set PTR: = START
+2. Repeat Steps 3-4 while PTR ≠ NULL
+3. Apply process to INFO (PTR)
+4. Set PTR: = LINK (PTR)
+[End of loop]
+5. Exit
